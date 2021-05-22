@@ -23,4 +23,4 @@ HOST = 'localhost'    #your MySQL DataBase host IP
 ```
 # Author
 Made by [Me](https://github.com/Tooloom)<br>
-Special Thanks to [@DigitalMonroe](https://gitlab.com/DigitalMonroe) for libraries:  `masterclass_database` and `telebot_user_state`
+Special Thanks to [@DigitalMonroe](https://gitlab.com/DigitalMonroe) for python libraries:  `masterclass_database` and `telebot_user_state`
