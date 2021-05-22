@@ -1,17 +1,18 @@
+
 # Telegram_reminder (rus)
-## This is a bot to set notifications.
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Tooloom/Telegram_reminder?color=green&label=version&style=flat-square)
 # Showcase
-This bot created for set notifications on Telegram.
-You must enter date, time and notification's text (**necessarily**).
-You can also delete or check your notifications list.
+- This bot created for set notifications on Telegram.
+- You must enter date, time and notification's text (**necessarily**).
+- You can also delete or check your notifications list.
 
-Used language - Python and SQL commands for MySQL database.
-![69QQSHwxai](https://user-images.githubusercontent.com/57460354/119226754-6ea4d100-bb13-11eb-8998-2b5a2e080205.gif)
+Used language: Python and SQL commands for MySQL database.
+## Demonstration:
+![XPJmcEdT1H](https://user-images.githubusercontent.com/57460354/119227795-56838080-bb18-11eb-8cd7-de0947c50544.gif)
 # Usage
-> Load the **Telegram_reminder** files
-> You should already set MySQL DataBase on your HOSTing place.
-> Change some info from `config.py` file:
+- Load the **Telegram_reminder** files
+- You should already set MySQL DataBase on your HOSTing place.
+- Change some info from `config.py` file:
 ```py
 token = 'token' #your token
 
