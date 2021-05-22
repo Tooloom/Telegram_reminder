@@ -1,6 +1,6 @@
 
 # Telegram_reminder (rus)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Tooloom/Telegram_reminder?color=%2300b359&label=virsion)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Tooloom/Telegram_reminder?color=%2300b359&label=virsion&style=flat-square)
 # Showcase
 - This bot created for `set` notifications on Telegram
 - You must enter date, time and notification's text (**necessarily**)
