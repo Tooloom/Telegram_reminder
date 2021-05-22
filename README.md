@@ -14,12 +14,12 @@ Used language: Python and SQL commands for MySQL database
 - You should already set MySQL DataBase on your HOSTing place
 - Change some info from `config.py` file:
 ```py
-token = 'token' #your token
+token = 'token'       #your token
 
-LOGIN = 'User_01' #your MySQL DataBase login
-PASSWORD = '1234' #your MySQL DataBase password
-DB = 'tel_reminder' #your MySQL DataBase name
-HOST = 'localhost'  #your MySQL DataBase host IP
+LOGIN = 'User_01'     #your MySQL DataBase login
+PASSWORD = '1234'     #your MySQL DataBase password
+DB = 'tel_reminder'   #your MySQL DataBase name
+HOST = 'localhost'    #your MySQL DataBase host IP
 ```
 # Author
 Made by [Me](https://github.com/Tooloom)
