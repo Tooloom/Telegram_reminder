@@ -22,5 +22,5 @@ DB = 'tel_reminder'   #your MySQL DataBase name
 HOST = 'localhost'    #your MySQL DataBase host IP
 ```
 # Author
-Made by [Me](https://github.com/Tooloom)
+Made by [Me](https://github.com/Tooloom)<br>
 Special Thanks to [@DigitalMonroe](https://gitlab.com/DigitalMonroe) for libraries:  `masterclass_database` and `telebot_user_state`
