@@ -21,11 +21,6 @@ PASSWORD = '1234'     # your MySQL DataBase password
 DB = 'tel_reminder'   # your MySQL DataBase name
 HOST = 'localhost'    # your MySQL DataBase host IP
 ```
-- Change some info from `telebot_user_state.py` or create folder `t_bot_users_data` in your hosting project:
-```py
-USERSTATES_FILE = '.t_bot_users_data/users_state.json'    # your JSON file place
-# json-file will be automatically created
-```
 # Author
 Made by [Me](https://github.com/Tooloom)<br>
 Special Thanks to [@DigitalMonroe](https://gitlab.com/DigitalMonroe) for python libraries `masterclass_database`, `telebot_user_state` and for helping with project
