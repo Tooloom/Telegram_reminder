@@ -5,7 +5,15 @@
 - You must enter date, time and notification's text (**necessarily**)
 - You can also `delete` or `check` your notifications list
 
-Used language: Python and SQL commands for MySQL database
+## Used language:
+-`Python` and `SQL` commands for `MySQL` database
+
+## Used libraries:
+- `telebot`
+- `PyMySQL`
+- `masterclass_database`, `telebot_user_state` (as special ones)
+- `time`, `threading`, `datetime`, `re` (as standard ones)
+
 ## Demonstration:
 ![XPJmcEdT1H](https://user-images.githubusercontent.com/57460354/119227795-56838080-bb18-11eb-8cd7-de0947c50544.gif)
 # Usage
