@@ -1,4 +1,4 @@
-# Telegram_reminder (rus)
+# Telegram_reminder
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Tooloom/Telegram_reminder?color=%2300b359&label=version&style=flat-square)
 # Showcase
 - This bot created for `set` notifications on Telegram
